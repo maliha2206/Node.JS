@@ -18,6 +18,19 @@ h1 {
     background-color: rgba(227, 167, 147, 0.807);
 }
 
+#nav{
+    text-align: center;
+    background-color: brown;
+    height: 25px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+}
+
+#nav a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin :0px 5px;
+}
     
 
 
