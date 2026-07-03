@@ -1,0 +1,24 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "git config --global user.name \"Maliha Mubeen\"\r git config --global user.email \"24wh1a05p3@bvrithyderabad.edu.in\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maliha2206/Node.JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maliha2206/Node.JS/issues"
+  },
+  "homepage": "https://github.com/maliha2206/Node.JS#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
