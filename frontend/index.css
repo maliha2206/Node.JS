@@ -36,21 +36,37 @@ h1 {
 #card{
   align-items: center;
   margin-top: 5px;
+  border:3px solid black;
+  width : 300px;
+  height : 500px;
+  margin: 3px auto;
+  border: radius 5px;
+
 }
 
 #card-img{
   width: 300px;
   height: 300px;
   align-items: center;
-  margin: 0px auto;
+  margin: 3px auto;
 }
 
 img{
   width: 300px;
   height: 300px;
+  border:radius 5px;
 }
 
 #action{
   text-align: center;
+}
+
+#action button{
+  display:block;
+  margin: 8px auto;
+}
+
+button{
+  width : 100%;
 }
 
